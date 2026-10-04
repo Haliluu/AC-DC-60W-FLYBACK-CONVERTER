@@ -1,4 +1,4 @@
 # AC-DC 60W FLYBACK CONVERTER
 AC-DC Flyback Converter for MOSFET Driving  Voltage Requirement
 
-<img width="878" height="681" alt="Completed_pcb" src="https://github.com/user-attachments/assets/fb9e825f-d8c6-4f46-9629-61c44b15adef" />
+<img width="678" height="481" alt="Completed_pcb" src="https://github.com/user-attachments/assets/fb9e825f-d8c6-4f46-9629-61c44b15adef" />
