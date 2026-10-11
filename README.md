@@ -9,7 +9,7 @@ Hardware Prototype & PCBA Overview:
 
 Testing & Validation Setup under Load:
 <p align="center">
-<img width="300" height="400" alt="WhatsApp Image 2026-10-11 at 15 23 24" src="https://github.com/user-attachments/assets/11b373a4-963a-4c17-8f95-4a01f8de59c1" />
+<img width="360" height="480" alt="WhatsApp Image 2026-10-11 at 15 23 24" src="https://github.com/user-attachments/assets/11b373a4-963a-4c17-8f95-4a01f8de59c1" />
 
 <br><br>
 
